@@ -1,4 +1,4 @@
-# 📁 Documentação disponível do [Sistema chamados](https://github.com/HyperScripts/Exports-system-chamados/wiki)
+# 📁 Documentação disponível do [Sistema chamados](https://github.com/HyperScripts/Exports-system-chamados/wiki/Sistema-chamados)
 
 ### ⚠ Caso não entenda de como utilizar as exportações disponíveis, abra um ticket em nossa loja para mais detalhes.
 
